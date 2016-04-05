@@ -1,4 +1,4 @@
-FROM eventlog_by_nikhil
+FROM eventlog_by_nikhil:v2
 MAINTAINER eventlog_by_nikhil:v1
 
 RUN apt-get install -y libtool
